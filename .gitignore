@@ -32,6 +32,9 @@ build/
 App_Data/
 bower_components
 node_modules
+cypress/screenshots
+cypress/videos
+cypress/downloads
 *.sln.ide
 src/*/wwwroot/lib
 src/*/wwwroot/Scripts
